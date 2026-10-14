@@ -8,7 +8,7 @@ Archive tools for Mac: free **Dolzip Unpack** for extraction, the free **dz** co
 
 ## Download / 다운로드
 
-Coming soon / 곧 출시. macOS 14 or later, Apple Silicon.
+Coming soon / 곧 출시. macOS 14 or later, Apple silicon and Intel.
 Planned version: 0.1.0. Downloads will become available after Developer ID signing and Apple notarization; the first public stable release is planned as 1.0.0. No binaries or releases are published yet.
 
 서명·공증 준비 전에는 바이너리를 배포하지 않습니다. 향후 무료 앱은 DMG 설치 파일로 제공합니다.
