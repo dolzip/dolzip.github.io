@@ -1,0 +1,24 @@
+{
+  "name": "버그 신고 · ko",
+  "description": "재현 가능한 문제를 알려주세요",
+  "title": "[bug] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "macOS 버전, Mac 모델, Dolzip 버전, 압축 형식과 오류 메시지를 적어주세요. 비밀번호와 개인정보는 제거하세요."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "details",
+      "attributes": {
+        "label": "재현 단계, 기대 결과와 실제 결과",
+        "description": "macOS 버전, Mac 모델, Dolzip 버전, 압축 형식과 오류 메시지를 적어주세요. 비밀번호와 개인정보는 제거하세요."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

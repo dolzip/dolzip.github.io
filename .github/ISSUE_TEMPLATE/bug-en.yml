@@ -1,0 +1,24 @@
+{
+  "name": "Bug report · en",
+  "description": "Report a reproducible problem",
+  "title": "[bug] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Include macOS version, Mac model, Dolzip version, archive format and error message. Remove passwords and private data."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "details",
+      "attributes": {
+        "label": "Steps to reproduce, expected result and actual result",
+        "description": "Include macOS version, Mac model, Dolzip version, archive format and error message. Remove passwords and private data."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Feature request · en",
+  "description": "Suggest an improvement",
+  "title": "[feature] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Describe your workflow, desired behavior and alternatives. Do not include personal or confidential data."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "details",
+      "attributes": {
+        "label": "What problem would this solve?",
+        "description": "Describe your workflow, desired behavior and alternatives. Do not include personal or confidential data."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

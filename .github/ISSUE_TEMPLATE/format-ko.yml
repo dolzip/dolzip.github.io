@@ -1,0 +1,24 @@
+{
+  "name": "형식 지원 요청 · ko",
+  "description": "압축 형식이나 코덱 지원을 요청하세요",
+  "title": "[format] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "합법적으로 공유할 수 있는 민감하지 않은 표본이나 링크를 첨부하고, 풀기와 만들기 중 필요한 기능을 알려주세요."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "details",
+      "attributes": {
+        "label": "형식, 코덱과 공개 명세",
+        "description": "합법적으로 공유할 수 있는 민감하지 않은 표본이나 링크를 첨부하고, 풀기와 만들기 중 필요한 기능을 알려주세요."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

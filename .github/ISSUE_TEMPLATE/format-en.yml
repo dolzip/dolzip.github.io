@@ -1,0 +1,24 @@
+{
+  "name": "Format support request · en",
+  "description": "Request an archive format or codec",
+  "title": "[format] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Share a legally redistributable, non-sensitive sample or a link. Describe whether extraction or creation is needed."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "details",
+      "attributes": {
+        "label": "Format, codec and a public specification",
+        "description": "Share a legally redistributable, non-sensitive sample or a link. Describe whether extraction or creation is needed."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}
