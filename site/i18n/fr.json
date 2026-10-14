@@ -51,11 +51,11 @@
   "faq_cli": "dz — Gratuit · Outil en ligne de commande: Lister · Extraire · Créer · Vérifier · Modifier.",
   "getting_started": "Premiers pas",
   "getting_started_body": "Après la sortie, glissez l’app dans Applications. Déposez une archive dans la fenêtre ou sélectionnez un fichier, puis choisissez la destination.",
-  "report_a_bug": "Signaler un bug ↗",
-  "request_a_format": "Demander un format ↗",
   "privacy": "Confidentialité",
   "privacy_body": "L’app ne collecte ni données personnelles ni statistiques d’utilisation. Ce site n’utilise ni outil d’analyse ni cookies. L’hébergement et les téléchargements relèvent de la politique de confidentialité de GitHub. Ne publiez ni mots de passe ni fichiers sensibles dans les issues publiques.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Confidentialité",
-  "third_party_notices": "Mentions tierces"
+  "third_party_notices": "Mentions tierces",
+  "support_dolunzip": "DolUnzip · Assistance",
+  "support_dz": "dz · Assistance"
 }

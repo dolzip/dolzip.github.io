@@ -51,11 +51,11 @@
   "faq_cli": "dz — مجاني · أداة سطر الأوامر: عرض القائمة · فكّ الضغط · الإنشاء · التحقق · التحرير.",
   "getting_started": "البدء",
   "getting_started_body": "بعد الإصدار، اسحب التطبيق إلى مجلد التطبيقات. أفلِت أرشيفًا في النافذة أو اختر ملفًا، ثم حدد مكان فكّه.",
-  "report_a_bug": "الإبلاغ عن خلل ↗",
-  "request_a_format": "طلب دعم صيغة ↗",
   "privacy": "الخصوصية",
   "privacy_body": "لا يجمع التطبيق بيانات شخصية أو إحصاءات استخدام. لا يستخدم هذا الموقع أدوات تحليل أو ملفات تعريف ارتباط. تسري سياسة خصوصية GitHub على الاستضافة والتنزيلات. لا تنشر كلمات مرور أو ملفات حساسة في البلاغات العامة.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · الخصوصية",
-  "third_party_notices": "إشعارات الجهات الخارجية"
+  "third_party_notices": "إشعارات الجهات الخارجية",
+  "support_dolunzip": "DolUnzip · الدعم",
+  "support_dz": "dz · الدعم"
 }

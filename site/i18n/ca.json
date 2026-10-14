@@ -51,11 +51,11 @@
   "faq_cli": "dz — Gratuït · Eina de línia d'ordres: Llistar · Extreu · Crea · Comprovar · Editar.",
   "getting_started": "Primers passos",
   "getting_started_body": "Després del llançament, arrossega l’app a Aplicacions. Deixa anar un arxiu a la finestra o tria un fitxer i indica on extreure’l.",
-  "report_a_bug": "Informa d’un error ↗",
-  "request_a_format": "Demana un format ↗",
   "privacy": "Privadesa",
   "privacy_body": "L’app no recull dades personals ni estadístiques d’ús. El lloc no utilitza analítica ni galetes. L’allotjament i les baixades es regeixen per la política de privadesa de GitHub. No publiquis contrasenyes ni fitxers sensibles en incidències públiques.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Privadesa",
-  "third_party_notices": "Avisos de tercers"
+  "third_party_notices": "Avisos de tercers",
+  "support_dolunzip": "DolUnzip · Suport",
+  "support_dz": "dz · Suport"
 }

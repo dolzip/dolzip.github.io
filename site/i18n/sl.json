@@ -51,11 +51,11 @@
   "faq_cli": "dz — Brezplačno · Orodje ukazne vrstice: Seznam · Razširjanje · Ustvarjanje · Preverjanje · Urejanje.",
   "getting_started": "Prvi koraki",
   "getting_started_body": "Po izdaji povlecite aplikacijo v Aplikacije. Spustite arhiv v okno ali izberite datoteko in določite cilj razširjanja.",
-  "report_a_bug": "Prijavi napako ↗",
-  "request_a_format": "Zahtevaj format ↗",
   "privacy": "Zasebnost",
   "privacy_body": "Aplikacija ne zbira osebnih podatkov ali statistike uporabe. Stran ne uporablja analitike ali piškotkov. Za gostovanje in prenose velja pravilnik o zasebnosti GitHuba. Ne objavljajte gesel ali občutljivih datotek v javnih prijavah.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Zasebnost",
-  "third_party_notices": "Obvestila tretjih oseb"
+  "third_party_notices": "Obvestila tretjih oseb",
+  "support_dolunzip": "DolUnzip · Podpora",
+  "support_dz": "dz · Podpora"
 }

@@ -51,11 +51,11 @@
   "faq_cli": "dz — Kostenlos · Kommandozeilenwerkzeug: Auflisten · Entpacken · Erstellen · Prüfen · Bearbeiten.",
   "getting_started": "Erste Schritte",
   "getting_started_body": "Nach der Veröffentlichung die App in Programme ziehen. Ein Archiv ins Fenster ziehen oder auswählen und den Zielordner festlegen.",
-  "report_a_bug": "Fehler melden ↗",
-  "request_a_format": "Format anfragen ↗",
   "privacy": "Datenschutz",
   "privacy_body": "Die App sammelt keine personenbezogenen Daten oder Nutzungsstatistiken. Diese Website nutzt keine Analysewerkzeuge oder Cookies. Für Hosting und Downloads gilt die Datenschutzerklärung von GitHub. Keine Passwörter oder vertraulichen Dateien in öffentlichen Issues posten.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Datenschutz",
-  "third_party_notices": "Drittanbieterhinweise"
+  "third_party_notices": "Drittanbieterhinweise",
+  "support_dolunzip": "DolUnzip · Support",
+  "support_dz": "dz · Support"
 }

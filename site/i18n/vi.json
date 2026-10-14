@@ -51,11 +51,11 @@
   "faq_cli": "dz — Miễn phí · Công cụ dòng lệnh: Liệt kê · Giải nén · Tạo · Kiểm tra · Chỉnh sửa.",
   "getting_started": "Bắt đầu",
   "getting_started_body": "Sau khi phát hành, kéo ứng dụng vào Applications. Thả tệp nén vào cửa sổ hoặc chọn tệp, rồi chọn nơi giải nén.",
-  "report_a_bug": "Báo lỗi ↗",
-  "request_a_format": "Yêu cầu định dạng ↗",
   "privacy": "Quyền riêng tư",
   "privacy_body": "Ứng dụng không thu thập dữ liệu cá nhân hay thống kê sử dụng. Trang này không dùng công cụ phân tích hoặc cookie. Chính sách quyền riêng tư của GitHub áp dụng cho lưu trữ và tải về. Không đăng mật khẩu hoặc tệp nhạy cảm trong vấn đề công khai.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Quyền riêng tư",
-  "third_party_notices": "Thông báo bên thứ ba"
+  "third_party_notices": "Thông báo bên thứ ba",
+  "support_dolunzip": "DolUnzip · Hỗ trợ",
+  "support_dz": "dz · Hỗ trợ"
 }

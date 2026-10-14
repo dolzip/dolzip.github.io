@@ -51,11 +51,11 @@
   "faq_cli": "dz — Ilmainen · Komentorivityökalu: Listaa · Pura · Luo · Tarkista · Muokkaa.",
   "getting_started": "Aloittaminen",
   "getting_started_body": "Vedä sovellus julkaisun jälkeen Ohjelmat-kansioon. Pudota arkisto ikkunaan tai valitse tiedosto ja määritä purkukohde.",
-  "report_a_bug": "Ilmoita virheestä ↗",
-  "request_a_format": "Pyydä muodon tukea ↗",
   "privacy": "Tietosuoja",
   "privacy_body": "Sovellus ei kerää henkilötietoja tai käyttötilastoja. Sivusto ei käytä analytiikkaa tai evästeitä. GitHubin tietosuojakäytäntö koskee ylläpitoa ja latauksia. Älä julkaise salasanoja tai arkaluonteisia tiedostoja julkisissa ilmoituksissa.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Tietosuoja",
-  "third_party_notices": "Kolmansien osapuolten ilmoitukset"
+  "third_party_notices": "Kolmansien osapuolten ilmoitukset",
+  "support_dolunzip": "DolUnzip · Tuki",
+  "support_dz": "dz · Tuki"
 }

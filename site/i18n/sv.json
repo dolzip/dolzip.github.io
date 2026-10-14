@@ -51,11 +51,11 @@
   "faq_cli": "dz — Gratis · Kommandoradsverktyg: Lista · Packa upp · Skapa · Kontrollera · Redigera.",
   "getting_started": "Kom igång",
   "getting_started_body": "Dra appen till Program efter lanseringen. Släpp ett arkiv i fönstret eller välj en fil och ange var den ska packas upp.",
-  "report_a_bug": "Rapportera ett fel ↗",
-  "request_a_format": "Önska ett format ↗",
   "privacy": "Integritet",
   "privacy_body": "Appen samlar inte in personuppgifter eller användningsstatistik. Webbplatsen använder varken analysverktyg eller kakor. GitHubs integritetspolicy gäller för drift och hämtningar. Lägg inte upp lösenord eller känsliga filer i offentliga ärenden.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Integritet",
-  "third_party_notices": "Tredjepartsmeddelanden"
+  "third_party_notices": "Tredjepartsmeddelanden",
+  "support_dolunzip": "DolUnzip · Support",
+  "support_dz": "dz · Support"
 }

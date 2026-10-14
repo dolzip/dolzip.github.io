@@ -51,11 +51,11 @@
   "faq_cli": "dz — Zdarma · Nástroj příkazového řádku: Seznam · Rozbalení · Vytvoření · Kontrola · Úpravy.",
   "getting_started": "Začínáme",
   "getting_started_body": "Po vydání přetáhněte aplikaci do Aplikací. Přetáhněte archiv do okna nebo vyberte soubor a určete místo rozbalení.",
-  "report_a_bug": "Nahlásit chybu ↗",
-  "request_a_format": "Požádat o formát ↗",
   "privacy": "Soukromí",
   "privacy_body": "Aplikace nesbírá osobní údaje ani statistiky používání. Web nepoužívá analytiku ani cookies. Na hosting a stahování se vztahují zásady ochrany soukromí GitHubu. Do veřejných hlášení nevkládejte hesla ani citlivé soubory.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Soukromí",
-  "third_party_notices": "Oznámení třetích stran"
+  "third_party_notices": "Oznámení třetích stran",
+  "support_dolunzip": "DolUnzip · Podpora",
+  "support_dz": "dz · Podpora"
 }

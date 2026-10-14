@@ -51,11 +51,11 @@
   "faq_cli": "dz — Gratis · Opdragreëlnutsding: Lys · Pak uit · Skep · Toets · Wysig.",
   "getting_started": "Kom aan die gang",
   "getting_started_body": "Sleep die app ná vrystelling na Applications. Sleep ’n argief na die venster of kies ’n lêer en bepaal waar dit uitgepak moet word.",
-  "report_a_bug": "Rapporteer ’n fout ↗",
-  "request_a_format": "Versoek ’n formaat ↗",
   "privacy": "Privaatheid",
   "privacy_body": "Die app versamel geen persoonlike data of gebruikstatistiek nie. Hierdie webwerf gebruik geen ontledingsnutsmiddels of koekies nie. GitHub se privaatheidsbeleid geld vir huisvesting en aflaaie. Moenie wagwoorde of sensitiewe lêers in openbare kwessies plaas nie.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Privaatheid",
-  "third_party_notices": "Derdepartykennisgewings"
+  "third_party_notices": "Derdepartykennisgewings",
+  "support_dolunzip": "DolUnzip · Ondersteuning",
+  "support_dz": "dz · Ondersteuning"
 }

@@ -46,8 +46,13 @@ class SiteBuildTests(unittest.TestCase):
                 alternates = doc.select('link', rel='alternate')
                 self.assertEqual([a['hreflang'] for a in alternates], locales + ['x-default'])
                 downloads = [a['href'] for a in doc.select('a') if 'release-download' in a.get('class', '').split()]
-                release = 'https://github.com/dolzip/dolzip.github.io/releases/download/v0.1.0/'
-                self.assertEqual(downloads, [release + 'DolUnzip-0.1.0.dmg'] * 2 + [release + 'dz-0.1.0.pkg'])
+                release = 'https://github.com/dolzip/dolunzip/releases/download/v0.1.0/'
+                cli_release = 'https://github.com/dolzip/dz/releases/download/v0.1.0/'
+                self.assertEqual(downloads, [release + 'DolUnzip-0.1.0.dmg'] * 2 + [cli_release + 'dz-0.1.0.pkg'])
+                hrefs = [a.get('href', '') for a in doc.select('a')]
+                for product in ('dolunzip', 'dz'):
+                    self.assertIn(f'https://github.com/dolzip/{product}/issues/new/choose', hrefs)
+                self.assertFalse(any('dolzip.github.io/issues' in url or 'dolzip.github.io/releases' in url for url in hrefs))
                 self.assertEqual(len([a for a in doc.select('button') if 'disabled' in a]), 2)
                 self.assertIn(html.escape(strings[code]['native']), (self.output / code / 'index.html').read_text())
                 ids = {a['id'] for _, a in doc.tags if 'id' in a}

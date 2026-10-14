@@ -51,11 +51,11 @@
   "faq_cli": "dz — 免費 · 命令列工具: 列表 · 解壓縮 · 建立 · 檢查 · 編輯.",
   "getting_started": "開始使用",
   "getting_started_body": "發布後，將 App 拖入「應用程式」。將壓縮檔拖至視窗或選取檔案，再指定解壓縮位置。",
-  "report_a_bug": "回報問題 ↗",
-  "request_a_format": "要求格式支援 ↗",
   "privacy": "隱私權",
   "privacy_body": "App 不收集個人資料或使用統計。本站不使用分析工具或 Cookie。託管及下載適用 GitHub 的隱私權政策。請勿在公開議題中張貼密碼或敏感檔案。",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · 隱私權",
-  "third_party_notices": "第三方聲明"
+  "third_party_notices": "第三方聲明",
+  "support_dolunzip": "DolUnzip · 支援",
+  "support_dz": "dz · 支援"
 }

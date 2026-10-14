@@ -51,11 +51,11 @@
   "faq_cli": "dz — 무료 · 명령줄 도구: 목록 · 풀기 · 만들기 · 검사 · 편집.",
   "getting_started": "시작하기",
   "getting_started_body": "출시 후 앱을 응용 프로그램 폴더로 옮기세요. 압축 파일을 창에 끌어다 놓거나 파일 선택 버튼을 누른 뒤 풀 위치를 정하면 됩니다.",
-  "report_a_bug": "버그 신고 ↗",
-  "request_a_format": "형식 지원 요청 ↗",
   "privacy": "개인정보 처리",
   "privacy_body": "앱은 개인정보나 사용 통계를 수집하지 않습니다. 이 사이트에는 분석 도구나 쿠키가 없습니다. 호스팅과 다운로드에는 GitHub의 개인정보 처리방침이 적용됩니다. 공개 이슈에 비밀번호나 민감한 파일을 올리지 마세요.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · 개인정보 처리",
-  "third_party_notices": "서드파티 고지"
+  "third_party_notices": "서드파티 고지",
+  "support_dolunzip": "DolUnzip · 지원",
+  "support_dz": "dz · 지원"
 }

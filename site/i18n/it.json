@@ -51,11 +51,11 @@
   "faq_cli": "dz — Gratis · Strumento da riga di comando: Elenca · Estrai · Crea · Verifica · Modifica.",
   "getting_started": "Per iniziare",
   "getting_started_body": "Dopo il rilascio, trascina l’app in Applicazioni. Trascina un archivio nella finestra o selezionalo, poi scegli dove estrarlo.",
-  "report_a_bug": "Segnala un problema ↗",
-  "request_a_format": "Richiedi un formato ↗",
   "privacy": "Privacy",
   "privacy_body": "L’app non raccoglie dati personali né statistiche d’uso. Il sito non usa analisi o cookie. A hosting e download si applica l’informativa sulla privacy di GitHub. Non pubblicare password o file sensibili nelle segnalazioni pubbliche.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Privacy",
-  "third_party_notices": "Avvisi di terze parti"
+  "third_party_notices": "Avvisi di terze parti",
+  "support_dolunzip": "DolUnzip · Assistenza",
+  "support_dz": "dz · Assistenza"
 }

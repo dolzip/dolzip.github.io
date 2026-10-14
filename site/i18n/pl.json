@@ -51,11 +51,11 @@
   "faq_cli": "dz — Bezpłatnie · Narzędzie wiersza poleceń: Lista · Rozpakowywanie · Tworzenie · Test · Edycja.",
   "getting_started": "Pierwsze kroki",
   "getting_started_body": "Po premierze przeciągnij aplikację do folderu Aplikacje. Upuść archiwum w oknie lub wybierz plik, a potem wskaż miejsce rozpakowania.",
-  "report_a_bug": "Zgłoś błąd ↗",
-  "request_a_format": "Poproś o format ↗",
   "privacy": "Prywatność",
   "privacy_body": "Aplikacja nie zbiera danych osobowych ani statystyk użycia. Witryna nie używa analityki ani plików cookie. Hosting i pobieranie podlegają polityce prywatności GitHuba. Nie publikuj haseł ani poufnych plików w publicznych zgłoszeniach.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Prywatność",
-  "third_party_notices": "Informacje o składnikach zewnętrznych"
+  "third_party_notices": "Informacje o składnikach zewnętrznych",
+  "support_dolunzip": "DolUnzip · Wsparcie",
+  "support_dz": "dz · Wsparcie"
 }

@@ -51,11 +51,11 @@
   "faq_cli": "dz — Ingyenes · Parancssori eszköz: Listázás · Kibontás · Létrehozás · Ellenőrzés · Szerkesztés.",
   "getting_started": "Első lépések",
   "getting_started_body": "A megjelenés után húzd az appot az Alkalmazások mappába. Húzz egy archívumot az ablakba vagy válassz fájlt, majd add meg a kibontás helyét.",
-  "report_a_bug": "Hiba bejelentése ↗",
-  "request_a_format": "Formátum kérése ↗",
   "privacy": "Adatvédelem",
   "privacy_body": "Az app nem gyűjt személyes adatokat vagy használati statisztikákat. Az oldal nem használ analitikát vagy sütiket. A tárhelyre és a letöltésekre a GitHub adatvédelmi szabályzata vonatkozik. Nyilvános hibajegyekben ne ossz meg jelszavakat vagy érzékeny fájlokat.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Adatvédelem",
-  "third_party_notices": "Harmadik felek közleményei"
+  "third_party_notices": "Harmadik felek közleményei",
+  "support_dolunzip": "DolUnzip · Támogatás",
+  "support_dz": "dz · Támogatás"
 }

@@ -51,11 +51,11 @@
   "faq_cli": "dz — 免费 · 命令行工具: 列表 · 解压 · 创建 · 检测 · 编辑.",
   "getting_started": "开始使用",
   "getting_started_body": "发布后，将应用拖入“应用程序”。将压缩包拖到窗口中或选择文件，再指定解压位置。",
-  "report_a_bug": "报告问题 ↗",
-  "request_a_format": "请求格式支持 ↗",
   "privacy": "隐私",
   "privacy_body": "应用不收集个人信息或使用统计。本站不使用分析工具或 Cookie。托管和下载适用 GitHub 的隐私政策。请勿在公开议题中发布密码或敏感文件。",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · 隐私",
-  "third_party_notices": "第三方声明"
+  "third_party_notices": "第三方声明",
+  "support_dolunzip": "DolUnzip · 支持",
+  "support_dz": "dz · 支持"
 }

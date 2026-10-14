@@ -51,11 +51,11 @@
   "faq_cli": "dz — ฟรี · เครื่องมือบรรทัดคำสั่ง: แสดงรายการ · แตกไฟล์ · สร้าง · ตรวจสอบ · แก้ไข.",
   "getting_started": "เริ่มต้นใช้งาน",
   "getting_started_body": "หลังเปิดตัว ให้ลากแอปไปที่ Applications วางไฟล์บีบอัดลงในหน้าต่างหรือเลือกไฟล์ แล้วกำหนดตำแหน่งที่จะแตกไฟล์",
-  "report_a_bug": "รายงานข้อผิดพลาด ↗",
-  "request_a_format": "ขอรองรับรูปแบบไฟล์ ↗",
   "privacy": "ความเป็นส่วนตัว",
   "privacy_body": "แอปไม่เก็บข้อมูลส่วนตัวหรือสถิติการใช้งาน เว็บไซต์นี้ไม่มีเครื่องมือวิเคราะห์หรือคุกกี้ การโฮสต์และดาวน์โหลดอยู่ภายใต้นโยบายความเป็นส่วนตัวของ GitHub อย่าโพสต์รหัสผ่านหรือไฟล์ที่มีข้อมูลอ่อนไหวในประเด็นสาธารณะ",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · ความเป็นส่วนตัว",
-  "third_party_notices": "ประกาศของบุคคลที่สาม"
+  "third_party_notices": "ประกาศของบุคคลที่สาม",
+  "support_dolunzip": "DolUnzip · การสนับสนุน",
+  "support_dz": "dz · การสนับสนุน"
 }

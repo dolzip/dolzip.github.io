@@ -51,11 +51,11 @@
   "faq_cli": "dz — Ücretsiz · Komut satırı aracı: Listele · Çıkarma · Oluşturma · Sına · Düzenle.",
   "getting_started": "Başlarken",
   "getting_started_body": "Yayımlandıktan sonra uygulamayı Uygulamalar’a sürükleyin. Bir arşivi pencereye bırakın veya dosya seçin, ardından çıkarılacağı yeri belirleyin.",
-  "report_a_bug": "Hata bildir ↗",
-  "request_a_format": "Biçim iste ↗",
   "privacy": "Gizlilik",
   "privacy_body": "Uygulama kişisel veri veya kullanım istatistiği toplamaz. Bu site analiz aracı veya çerez kullanmaz. Barındırma ve indirmelerde GitHub’ın gizlilik politikası geçerlidir. Herkese açık bildirimlerde parola veya hassas dosya paylaşmayın.",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · Gizlilik",
-  "third_party_notices": "Üçüncü taraf bildirimleri"
+  "third_party_notices": "Üçüncü taraf bildirimleri",
+  "support_dolunzip": "DolUnzip · Destek",
+  "support_dz": "dz · Destek"
 }

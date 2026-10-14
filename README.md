@@ -8,7 +8,7 @@ Archive tools for Mac: free **DolUnzip** for extraction, the free **dz** command
 
 ## Download / 다운로드
 
-[DolUnzip DMG](https://github.com/dolzip/dolzip.github.io/releases/download/v0.1.0/DolUnzip-0.1.0.dmg) · [dz PKG](https://github.com/dolzip/dolzip.github.io/releases/download/v0.1.0/dz-0.1.0.pkg) · [0.1.0 Preview](https://github.com/dolzip/dolzip.github.io/releases/tag/v0.1.0)
+[DolUnzip DMG](https://github.com/dolzip/dolunzip/releases/download/v0.1.0/DolUnzip-0.1.0.dmg) · [dz PKG](https://github.com/dolzip/dz/releases/download/v0.1.0/dz-0.1.0.pkg) · [DolUnzip Preview](https://github.com/dolzip/dolunzip/releases/tag/v0.1.0) · [dz Preview](https://github.com/dolzip/dz/releases/tag/v0.1.0)
 
 Dolzip — App Store: Coming soon / 곧 출시.
 
@@ -20,7 +20,7 @@ Dolzip — App Store: Coming soon / 곧 출시.
 
 ## Support / 지원
 
-[Report a bug, request a format or suggest a feature / 버그·형식 지원·기능 제안](https://github.com/dolzip/dolzip.github.io/issues/new/choose)
+[DolUnzip 지원 / Support](https://github.com/dolzip/dolunzip/issues/new/choose) · [dz 지원 / Support](https://github.com/dolzip/dz/issues/new/choose)
 
 Templates are available in Korean and English. Never attach passwords, personal data or confidential archives to a public issue.
 한국어·영어 양식을 제공합니다. 공개 이슈에 비밀번호·개인정보·기밀 파일을 올리지 마세요.

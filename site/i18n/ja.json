@@ -51,11 +51,11 @@
   "faq_cli": "dz — 無料 · コマンドラインツール: 一覧 · 解凍 · 作成 · 検査 · 編集.",
   "getting_started": "使い方",
   "getting_started_body": "公開後、アプリをアプリケーションフォルダに移動します。ウインドウにファイルをドロップするか選択し、解凍先を指定します。",
-  "report_a_bug": "不具合を報告 ↗",
-  "request_a_format": "形式の対応をリクエスト ↗",
   "privacy": "プライバシー",
   "privacy_body": "アプリは個人情報や利用統計を収集しません。このサイトに解析ツールやCookieはありません。ホスティングとダウンロードにはGitHubのプライバシーポリシーが適用されます。公開Issueにパスワードや機密ファイルを投稿しないでください。",
   "github_privacy_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
   "github_privacy": "GitHub · プライバシー",
-  "third_party_notices": "サードパーティの告知"
+  "third_party_notices": "サードパーティの告知",
+  "support_dolunzip": "DolUnzip · サポート",
+  "support_dz": "dz · サポート"
 }
