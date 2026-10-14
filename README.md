@@ -10,6 +10,10 @@ Archive tools for Mac: free **DolUnzip** for extraction, the free **dz** command
 
 Coming soon / 곧 출시.
 
+- **DolUnzip** — 무료 압축 풀기 전용 / Free extraction app (DMG): macOS 11+ · Apple Silicon · Intel.
+- **dz** — 무료 명령줄 도구 / Free CLI (.pkg, `/usr/local/bin/dz`; Homebrew later): macOS 11+ · Apple Silicon · Intel.
+- **Dolzip — App Store** — 유료 압축·풀기·미리보기·편집 / Paid create, extract, preview and edit: macOS 14+ · Apple Silicon · Intel.
+
 [GitHub에서 소식 받기 / Watch for updates](https://github.com/dolzip/dolzip.github.io)
 
 ## Support / 지원

@@ -4,3 +4,11 @@
 @media(max-width:720px){header{padding:18px 22px;flex-wrap:wrap;justify-content:space-between;gap:16px}header .brand{font-size:22px}nav{order:3;flex-basis:100%;justify-content:space-between;gap:10px;flex-wrap:wrap}nav a{font-size:12px}.languages summary{font-size:12px}main{padding:0 22px}.hero{grid-template-columns:1fr;gap:15px;padding:55px 0 40px;min-height:0}.hero-copy{max-width:580px}h1{font-size:44px;letter-spacing:-1.8px;line-height:1.17}.lead{font-size:16px}.hero-art{height:290px;max-width:390px;width:100%;margin:auto}.hero-art img{width:190px;height:190px}.chip-one{top:15px}.chip-two{top:100px}.chip-three{bottom:55px}.art-caption{bottom:0}.actions{gap:10px}.button{font-size:12px;padding:12px 15px}.eyebrow{margin-bottom:20px}.format-strip{font-size:11px;gap:8px}.format-strip span{display:none}section{padding:55px 0}h2{font-size:29px}.cards{grid-template-columns:1fr}.card{min-height:0;padding:25px}.split-section{grid-template-columns:1fr;gap:18px}th,td{padding:12px;font-size:12px}.comparison th,.comparison td{padding:13px 10px}.comparison thead th{font-size:11px}.download-panel{padding:28px 23px;border-radius:18px}.download-panel p{font-size:14px}.support-panel{flex-direction:column;gap:0}.privacy{padding-top:0}footer{padding:25px 22px;gap:18px}footer .brand{width:100%}.languages>div{width:310px}.faq summary{font-size:16px}.watch{display:inline-block;max-width:100%;overflow-wrap:anywhere}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .hero-art{overflow:hidden}.split-section>*{min-width:0}
+
+/* Product descriptions stay next to each download action. */
+.product-action { flex: 1 1 230px; min-width: 0; }
+.product-action p { margin: .6rem 0 .25rem; font-size: .9rem; }
+.product-action small { opacity: .7; }
+.cli-download { border-top: 1px solid var(--line, #8885); margin-top: 2rem; padding-top: 1.5rem; }
+.comparison th { min-width: 130px; }
+.comparison th small { display: inline-block; max-width: 220px; font-weight: 400; }
