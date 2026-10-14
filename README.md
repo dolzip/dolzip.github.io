@@ -29,5 +29,5 @@ Templates are available in Korean and English. Never attach passwords, personal 
 
 31 languages, static HTML/CSS/JavaScript, no build step and no runtime dependencies. GitHub Pages publishes the root of `main`.
 
-Copyright © 2026 rebiane. All rights reserved.
+Copyright © 2026 Dolzip. All rights reserved.
 [Third-party notices](https://dolzip.github.io/third-party-notices.txt)
