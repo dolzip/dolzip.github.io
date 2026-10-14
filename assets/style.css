@@ -95,3 +95,5 @@ th,td{overflow-wrap:anywhere;vertical-align:middle}
  footer{padding-inline:var(--gutter)}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.download-card .uninstall code{white-space:normal;overflow-wrap:anywhere;unicode-bidi:isolate}
