@@ -5,10 +5,15 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .hero-art{overflow:hidden}.split-section>*{min-width:0}
 
-/* Product descriptions stay next to each download action. */
-.product-action { flex: 1 1 230px; min-width: 0; }
-.product-action p { margin: .6rem 0 .25rem; font-size: .9rem; }
-.product-action small { opacity: .7; }
-.cli-download { border-top: 1px solid var(--line, #8885); margin-top: 2rem; padding-top: 1.5rem; }
+/* Download cards share a row on desktop and stack on narrow screens. */
+.download-panel{padding:40px 28px}
+.download-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.download-card{display:flex;flex-direction:column;align-items:flex-start;min-width:0;padding:24px 20px;background:var(--panel);border:1px solid var(--line);border-radius:16px}
+.download-card h3{margin:0 0 12px;font-size:25px}
+.download-card p{margin:0 0 24px;font-size:14px;color:var(--muted);overflow-wrap:anywhere}
+.download-card .button{margin-top:auto;max-width:100%;text-align:center}
+.download-card .requirements{margin:18px 0 0;font-size:11px}
+@media(max-width:1000px){.download-cards{grid-template-columns:1fr}.download-card{padding:25px}}
+@media(max-width:720px){.download-panel{padding:28px 16px}}
 .comparison th { min-width: 130px; }
 .comparison th small { display: inline-block; max-width: 220px; font-weight: 400; }
