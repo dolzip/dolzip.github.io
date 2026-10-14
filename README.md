@@ -8,7 +8,7 @@ Archive tools for Mac: free **DolUnzip** for extraction, the free **dz** command
 
 ## Download / 다운로드
 
-[Download DolUnzip / dz (Free) · 다운로드 (무료)](https://github.com/dolzip/dolzip.github.io/releases/latest)
+[DolUnzip DMG](https://github.com/dolzip/dolzip.github.io/releases/download/v0.1.0/DolUnzip-0.1.0.dmg) · [dz PKG](https://github.com/dolzip/dolzip.github.io/releases/download/v0.1.0/dz-0.1.0.pkg) · [0.1.0 Preview](https://github.com/dolzip/dolzip.github.io/releases/tag/v0.1.0)
 
 Dolzip — App Store: Coming soon / 곧 출시.
 
